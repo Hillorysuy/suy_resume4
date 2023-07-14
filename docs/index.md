@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Hillory's Resume
 ---
 # Hillory
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
