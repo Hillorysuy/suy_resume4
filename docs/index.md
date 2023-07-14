@@ -16,36 +16,35 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
 
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`January 2020 - July 2024`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- Bachelor of Science in Biostatistics
 
 
 ## Related Experience
 
-### Internships
+### Work Experience
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+`August 2021 - Present`
+	
+__Brigham Young University__, Applied lab Science Assistant, Rexburg, ID
+- •	Prepare and arrange lab materials base on lab manual for students research lab
+- •	Review and edit errors in applied Lab science manual
+- •	Assist agronomist professors with potatoes research projects
+- •	Organize research analysis of data
 
 ### Data Science Lead
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`	April 2021 - July 2021`
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+__College of Lake County__, Peer Mentor, Grayslake, IL
+- • Organized with students' applications/forms
+- •	Planned and managed activities to keep students engage
+- •	Led international students to understand how to succeed
+- • Conducted team meetings
+
 
 `September 2027 - April 2028`
 __Good2Go__, Consultant
