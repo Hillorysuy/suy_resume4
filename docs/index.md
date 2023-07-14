@@ -25,6 +25,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - •	Minor: Biology
 
 ## Skills
+
 - •	Language: Khmer(Native), English(Fluent)
 - •	Technical: Microsoft Office(Word, Powerpoint, Excel), SQL, Python, R-studio, Regression Model, Lab Work
 - •	Proficient with communication and writing skills
@@ -37,6 +38,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 `August 2021 - Present`
 	
 __Brigham Young University__, Rexburg, ID
+
 - •	Prepare and arrange lab materials base on lab manual for students research lab
 - •	Review and edit errors in applied Lab science manual
 - •	Assist agronomist professors with potatoes research projects
@@ -47,12 +49,14 @@ __Brigham Young University__, Rexburg, ID
 `April 2021 - July 2021`
 
 __College of Lake County__, Grayslake, IL
+
 - • Organized with students' applications/forms
 - •	Planned and managed activities to keep students engage
 - •	Led international students to understand how to succeed
 - • Conducted team meetings
 
 ## Volunteer Experience
+
 ### International Student Ambassador
 
 `February 2020 - March 2021`
