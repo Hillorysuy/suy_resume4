@@ -3,7 +3,7 @@ layout: cv
 title: Hillory's Resume
 ---
 # Hillory
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
@@ -18,66 +18,52 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 
 `January 2020 - July 2024`
+
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - Bachelor of Science in Biostatistics
+- •	Minor: Biology
+
+## Skills
+- •	Language: Khmer(Native), English(Fluent)
+- •	Technical: Microsoft Office(Word, Powerpoint, Excel), SQL, Python, R-studio, Regression Model, Lab Work
+- •	Proficient with communication and writing skills
 
 
-## Related Experience
+## Work Experience
 
-### Work Experience
+###  Applied lab Science Assistant
 
 `August 2021 - Present`
 	
-__Brigham Young University__, Applied lab Science Assistant, Rexburg, ID
+__Brigham Young University__, Rexburg, ID
 - •	Prepare and arrange lab materials base on lab manual for students research lab
 - •	Review and edit errors in applied Lab science manual
 - •	Assist agronomist professors with potatoes research projects
 - •	Organize research analysis of data
 
-### Data Science Lead
+### Peer Mentor
 
-`	April 2021 - July 2021`
+`April 2021 - July 2021`
 
-__College of Lake County__, Peer Mentor, Grayslake, IL
+__College of Lake County__, Grayslake, IL
 - • Organized with students' applications/forms
 - •	Planned and managed activities to keep students engage
 - •	Led international students to understand how to succeed
 - • Conducted team meetings
 
+## Volunteer Experience
+### International Student Ambassador
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+`February 2020 - March 2021`
+	
+__College of Lake County__	Grayslake, IL
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+•	Sharing experiences with dominant students and encourage to study abroad
+•	Developing communication skills and positive outputs
+•	Setting and assisting team goals to give a good presentation to students
 
 
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
 
 
 
